@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ninja Danny</string>
+    <string name="category">NINJA_DANNY</string>
+    <string name="taste_coffee">Taste Coffee</string>
+</resources>

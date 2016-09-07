@@ -45,6 +45,51 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".splash.Splash_003"
+            android:label="splash / Splash_003">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="NINJA_DANNY" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".splash.Splash_004"
+            android:label="splash / Splash_004">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="NINJA_DANNY" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".splash.Splash_005"
+            android:label="splash / Splash_005">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="NINJA_DANNY" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".splash.Splash_006"
+            android:label="splash / Splash_006">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="NINJA_DANNY" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".splash.Splash_007"
+            android:label="splash / Splash_007">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="NINJA_DANNY" />
+            </intent-filter>
+        </activity>
+
     </application>
 
 </manifest>
